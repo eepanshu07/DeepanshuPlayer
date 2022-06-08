@@ -1,9 +1,9 @@
 {
-    "name": "AdityaBikashPlayer",
-    "logo": "https://te.legra.ph/file/0a633ea610081fe062b1b.jpg",
+    "name": "DeepanshuPlayer",
+    "logo": "https://te.legra.ph/file/7336a7da0b4ae78fd63cc.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/IamBikashhalder/adityabikashplayer",
+    "repository": "https://github.com/eepanshu07/DeepanshuPlayer",
     "stack": "container",
     "env": {
         "API_ID": {
